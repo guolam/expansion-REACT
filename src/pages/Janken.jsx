@@ -23,9 +23,6 @@ export const Janken = () => {
         ];
 
 
-
-
-
         return {
             myHand: myHand,
             comHand: hand[comIndex],
